@@ -1,0 +1,31 @@
+{
+  "name": "npm-publish-choice",
+  "version": "1.1.1-beta-0",
+  "description": "publish regular or beta version according to version name in packages.json",
+  "main": "na",
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitca71/npm-publish-choice.git"
+  },
+  "keywords": [
+    "publish",
+    "version"
+  ],
+  "files": [
+    "*.sh",
+    "*.json",
+    "README.md"
+  ],
+  "author": "amit cahanovich",
+  "bin": {
+    "npm-version-choice": "./npm_publish_choice.sh"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitca71/npm-publish-choice/issues"
+  },
+  "homepage": "https://github.com/amitca71/npm-publish-choice#readme"
+}
